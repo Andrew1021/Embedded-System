@@ -1,0 +1,347 @@
+*************************************************************
+FileName = PCB_Puls_Oximeter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PCB_Puls_Oximeter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_Puls_Oximeter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D19
+    D20
+    D22
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_Puls_Oximeter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D19
+    D25
+    D26
+    D27
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_Puls_Oximeter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_Puls_Oximeter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D20
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_Puls_Oximeter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_Puls_Oximeter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_Puls_Oximeter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_Puls_Oximeter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Puls_Oximeter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : PCB_Puls_Oximeter.Outline
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Top
+      File : PCB_Puls_Oximeter.Dimensions Top
+
+    Adding Layer      : Dimensions Top
+
+
+Used DCodes :
+    D20
+    D60
+*************************************************************
+
+*************************************************************
+Generating : 3D Top
+      File : PCB_Puls_Oximeter.3D Top
+
+    Adding Layer      : 3D Top
+
+
+Used DCodes :
+    D61
+*************************************************************
+
+*************************************************************
+Generating : 3D Bottom
+      File : PCB_Puls_Oximeter.3D Bottom
+
+    Adding Layer      : 3D Bottom
+
+
+Used DCodes :
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : PCB_Puls_Oximeter.Courtyard Top
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Bottom
+      File : PCB_Puls_Oximeter.Courtyard Bottom
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D38
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Test Points Top
+      File : PCB_Puls_Oximeter.Test Points Top
+
+    Adding Layer      : Test Points Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_Puls_Oximeter.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D39
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_Puls_Oximeter.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D39
+*************************************************************
+

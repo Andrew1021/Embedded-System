@@ -1,0 +1,51 @@
+Circuit: * C:\Users\Sebastian\OneDrive\Embedded System\Platine\SpiceSimulation\Verstärkerstufe.asc
+
+ERROR: Node NC_01 is floating and connected to current source IR_PULS
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+Gmin = 2.5711e-006
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.43813e-006
+vernier = 0.444444
+Gmin = 5.54887e-007
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.1778e-007
+vernier = 1
+Gmin = 1.3779e-008
+Gmin = 1.47951e-009
+Gmin = 1.58861e-010
+Gmin = 1.70576e-011
+Gmin = 1.83154e-012
+Gmin = 1.9666e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Feb 21 12:37:26 2021
+Total elapsed time: 7.530 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 81442
+traniter = 80750
+tranpoints = 39765
+accept = 26142
+rejected = 13623
+matrix size = 22
+fillins = 22
+solver = Normal
+Matrix Compiler1: 2.14 KB object code size  6.2/1.0/[0.5]
+Matrix Compiler2: off  [0.9]/1.9/1.0
+

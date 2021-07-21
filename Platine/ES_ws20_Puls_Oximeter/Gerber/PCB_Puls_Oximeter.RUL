@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {A80BC0E0-0E0E-4CAA-A740-A52F9D771D29}\Projects\B41D5969-EA87-4B75-AB89-0E25239AC024\64270d8a-1f2f-458f-abed-f298bd8a4211\PCB_Puls_Oximeter.CMPcbDoc
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=9.84
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=8.86

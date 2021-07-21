@@ -1,0 +1,16 @@
+Circuit: * C:\Users\Andreas\OneDrive\Master Informatik\Embedded Systems\Platine\SpiceSimulation\Mulitplexer.asc
+
+WARNING: Node RED is floating.
+
+WARNING: Less than two connections to node PWM_RED.  This node is used by V2.
+WARNING: Less than two connections to node PWM_IR.  This node is used by V3.
+WARNING: Less than two connections to node N002.  This node is used by Q1.
+WARNING: Less than two connections to node N003.  This node is used by Q2.
+WARNING: Less than two connections to node RED.  This node is used by R7.
+Direct Newton iteration for .op point succeeded.
+Singular matrix:  Check node red
+   Iteration No. 3
+Fatal Error: Singular matrix:  check node red
+   Iteration No. 3
+
+This circuit has floating nodes.

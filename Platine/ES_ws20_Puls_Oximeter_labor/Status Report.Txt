@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:38:15 On 04.12.2020
+
+Output: ExportSTEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PCB_Puls_Oximeter.CMPcbDoc]
+   Generated File[PCB_Puls_Oximeter.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:38:18 On 04.12.2020
